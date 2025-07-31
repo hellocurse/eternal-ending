@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nombre del Juego - Créditos</title>
+  <style>
+    body {
+      background: #111;
+      color: #eee;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #9fc6ff;
+      margin-bottom: 20px;
+    }
+    .credits {
+      margin-top: 40px;
+      line-height: 1.8;
+    }
+    .section-title {
+      color: #aabbee;
+      font-weight: bold;
+      margin-top: 30px;
+      font-size: 1.4em;
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 0.8em;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <h1>Nombre del Juego</h1>
+  <div class="credits">
+    <div class="section-title">Desarrollado por</div>
+    <p>Estudio Fantasma</p>
+
+    <div class="section-title">Director Creativo</div>
+    <p>Adriel M.</p>
+
+    <div class="section-title">Programación</div>
+    <p>Amy Yabar<br>Lucian Thorne</p>
+
+    <div class="section-title">Arte y Diseño</div>
+    <p>Valkiria Noir<br>Seth Erion</p>
+
+    <div class="section-title">Música</div>
+    <p>Caelum Aether</p>
+
+    <div class="section-title">Agradecimientos especiales</div>
+    <p>A todos los que jugaron con el corazón y soñaron junto a nosotros.</p>
+  </div>
+
+  <footer>
+    &copy; 2025 Estudio Fantasma. Todos los derechos reservados.
+  </footer>
+</body>
+</html>
